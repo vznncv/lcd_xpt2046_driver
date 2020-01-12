@@ -1,0 +1,15 @@
+# IDE
+.idea
+
+.vscode
+
+MDK-ARM
+demo/Drivers
+
+# temporary files
+~*
+*~
+Thumbs.db*
+
+# build
+/build/*
